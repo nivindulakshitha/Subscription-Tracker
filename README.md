@@ -5,16 +5,12 @@ This project is a **production-ready Subscription Management System API** that h
 
 🔐 **Features include:** Authentication with JWTs, database integration with MongoDB, API scalability, and seamless communication with the frontend.  
 
-💡 **Need help?** Join our **active Discord community** with **50k+ members** for support and discussions.  
-
----
 
 ## ⚙️ Tech Stack  
 - **Node.js** - JavaScript runtime  
 - **Express.js** - Web framework  
 - **MongoDB & Mongoose** - Database & ORM  
 
----
 
 ## 🔋 Features  
 
@@ -38,7 +34,6 @@ This project is a **production-ready Subscription Management System API** that h
 
 🔹 **And much more**, including **clean architecture** and **code reusability**.  
 
----
 
 ## 🚀 Getting Started  
 
@@ -90,12 +85,10 @@ This project is a **production-ready Subscription Management System API** that h
 4. Push: `git push origin feature-branch`  
 5. Open a Pull Request  
 
----
 
 ## 📜 License  
 
 This project is licensed under the **MIT License**.  
 
----
 
 ### ⭐ If you found this useful, don’t forget to give a star! 🌟  
