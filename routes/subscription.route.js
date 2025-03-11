@@ -4,7 +4,7 @@ const subscriptionRouter = Router();
 
 subscriptionRouter.get('/', (req, res) => {
     res.send({
-        title: 'Create new subscription'
+        title: 'Get all subscription'
     })
 })
 
