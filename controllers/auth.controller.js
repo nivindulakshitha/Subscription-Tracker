@@ -55,7 +55,7 @@ export const signin = async (req, res, next) => {
             const error = new Error('User not found');
             error.statusCode = 404;
             throw error;
-        }
+        } 
 
         const isPasswordValid = await bcrypt.compare(password, user.password);
 
