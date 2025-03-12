@@ -31,7 +31,7 @@ const subscriptionSchema = new mongoose.Schema({
         enum: ["sports", "movies", "music", "news", "lifestyle", "kids", "other"],
         required: [true, "Subscription category is required"],
     },
-    paymentMethods: {
+    paymentMethod: {
         type: String,
         enum: ["credit card", "paypal", "crypto", "other"],
         required: [true, "Subscription payment methods are required"],
